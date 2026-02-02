@@ -1,0 +1,18 @@
+{
+  "shakeNow": "Shake Now!",
+  "continue": "Continue",
+  "close": "Close",
+  "fortuneTitle": "Year of the Horse Prosperity",
+  "pleaseMakeDeposit": "Please make a deposit",
+  "pleaseLogin": "Please log in",
+  "ifNoAccPleaseRegister": "Don't have an account? Register Now",
+  "thinking": "The fortune teller is thinking...",
+  "breatheAndTapInstruction": "Breathe slowly, then tap anywhere to begin the ritual.",
+  "errorMessages": {
+    "message1": "The signs are quiet right now. Let's pause briefly.",
+    "message2": "This fortune needs a short breath before continuing",
+    "message3": "The moment isn't ready yet. Come back soon.",
+    "message4": "Today's fortune is still forming in silence.",
+    "message5": "The signs are quiet for now. Please return later."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "shakeNow": "摇一摇",
+  "continue": "继续",
+  "close": "关闭",
+  "fortuneTitle": "马年吉祥",
+  "pleaseMakeDeposit": "请充值",
+  "pleaseLogin": "请登入",
+  "thinking": "签神正在凝神推算...",
+  "breatheAndTapInstruction": "深呼吸，然后轻触屏幕任意处，开始仪式。",
+  "errorMessages": {
+    "message1": "今日灵感未成，签神闭关修行，请明日再来。",
+    "message2": "太多人求签了，签神喘口气再继续",
+    "message3": "运势不是天天都有的，越希有越灵",
+    "message4": "今日灵感薄弱，签神正在静修",
+    "message5": "时机尚未成熟，请稍后再来。"
+  }
+}
